@@ -1,0 +1,4 @@
+- 👋 Hi, I’m StickysIssue
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning [ Golang, MongoDB, Reverse Egineering ]
+- 📫 How to reach me @AppleAwares Discord
